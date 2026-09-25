@@ -1,0 +1,7 @@
+property,group1,group2,meandiff,p-adj,lower,upper,reject
+uts_MPa,0g,1g,14.4,0.0,9.2383,19.5617,True
+uts_MPa,0g,2g,26.3,0.0,21.1383,31.4617,True
+uts_MPa,1g,2g,11.9,0.0,6.7383,17.0617,True
+modulus_MPa,0g,1g,930.0,0.0,576.9695,1283.0305,True
+modulus_MPa,0g,2g,1620.0,0.0,1266.9695,1973.0305,True
+modulus_MPa,1g,2g,690.0,0.0001,336.9695,1043.0305,True

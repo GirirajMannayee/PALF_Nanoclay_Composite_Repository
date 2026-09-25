@@ -1,0 +1,7 @@
+property,group1,group2,meandiff,p-adj,lower,upper,reject
+flexural_strength_MPa,0g,1g,19.2,0.0,11.0094,27.3906,True
+flexural_strength_MPa,0g,2g,35.8,0.0,27.6094,43.9906,True
+flexural_strength_MPa,1g,2g,16.6,0.0001,8.4094,24.7906,True
+flexural_modulus_GPa,0g,1g,1.04,0.0,0.5863,1.4937,True
+flexural_modulus_GPa,0g,2g,1.79,0.0,1.3363,2.2437,True
+flexural_modulus_GPa,1g,2g,0.75,0.001,0.2963,1.2037,True

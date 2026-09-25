@@ -1,0 +1,9 @@
+property,0g,1g,2g
+Width_mm,25.0,25.0,25.0
+Thickness_mm,3.8,3.5,3.45
+Area_mm2,95.0,87.5,86.3
+Ultimate_Force_N,7828.0,8470.0,9381.0
+Ultimate_Stress_MPa,82.4,96.8,108.7
+Break_Distance_mm,3.47,3.12,2.91
+Total_Elongation_pct,2.31,2.08,1.94
+Tensile_Modulus_MPa,5210.0,6140.0,6830.0

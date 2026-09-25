@@ -1,0 +1,4 @@
+property,F,df_between,df_within,p_value
+burn_time_s,58.92,2,27,1.418e-10
+burn_length_mm,1.54,2,27,2.319e-01
+burning_rate_mm_per_min,47.75,2,27,1.360e-09

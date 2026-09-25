@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the manuscript for the reported findings and this repository for the reproducible data/analysis pipeline."
+title: "PALF-Epoxy-Nanoclay Composite: Data & Analysis Repository"
+type: dataset
+date-released: 2026-09-25
+keywords:
+  - pineapple leaf fiber
+  - nanoclay
+  - natural fiber composite
+  - tensile strength
+  - flexural strength
+  - free vibration
+  - sound transmission loss
+  - SEM fracture analysis
+related-works:
+  - type: generic
+    title: "Effect of Nanoclay Loading on the Mechanical, Free-Vibration, and Sound Transmission Loss Behavior of Pineapple Leaf Fiber-Epoxy Composites"
+    notes: "Source manuscript, included as manuscript/19_Nanoclay_PALF_Composite.docx"
+license: "MIT (code) / CC-BY-4.0 (data)"

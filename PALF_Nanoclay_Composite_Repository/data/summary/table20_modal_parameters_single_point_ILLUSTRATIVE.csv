@@ -1,0 +1,4 @@
+nanoclay,natural_frequency_Hz,damping_ratio_pct,loss_factor,relative_peak_amplitude,status
+0g,199.0,2.2,0.044,1.0,ILLUSTRATIVE_NOT_MEASURED
+1g,200.5,2.8,0.056,0.88,ILLUSTRATIVE_NOT_MEASURED
+2g,202.0,3.4,0.068,0.75,ILLUSTRATIVE_NOT_MEASURED

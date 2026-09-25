@@ -1,0 +1,8 @@
+property,F,df_between,df_within,p_value
+water_abs_24h_pct,28.01,2,27,2.598e-07
+water_abs_48h_pct,31.16,2,27,9.667e-08
+water_abs_168h_pct,33.98,2,27,4.229e-08
+impact_strength_kJ_m2,46.93,2,27,1.632e-09
+density_g_cm3,22.51,2,27,1.771e-06
+hardness_shoreD,48.66,2,27,1.114e-09
+oxygen_index_pct,150.81,2,27,2.228e-15

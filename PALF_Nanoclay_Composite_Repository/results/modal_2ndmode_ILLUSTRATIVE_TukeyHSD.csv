@@ -1,0 +1,7 @@
+property,group1,group2,meandiff,p-adj,lower,upper,reject
+second_freq_Hz,0g,1g,27.8,0.0,15.1087,40.4913,True
+second_freq_Hz,0g,2g,56.4,0.0,43.7087,69.0913,True
+second_freq_Hz,1g,2g,28.6,0.0,15.9087,41.2913,True
+damping_ratio_pct,0g,1g,0.32,0.0017,0.1154,0.5246,True
+damping_ratio_pct,0g,2g,0.61,0.0,0.4054,0.8146,True
+damping_ratio_pct,1g,2g,0.29,0.0043,0.0854,0.4946,True
